@@ -10,3 +10,9 @@
   <li>Data Manipulation & Visualization in Python: Numpy, Matplotlib, Seaborn, Pandas</li>
   <li>Machine Learning in Python: Scikit-Learn</li>
 </ul>
+<h2>Hobbies</h2>
+<ul>
+  <li>Lifting weights</li>
+  <li>Playing the piano</li>
+  <li>Reading non-fiction books trying to understand the world a little better</li>
+</ul>
