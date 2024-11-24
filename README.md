@@ -1,7 +1,7 @@
 <h1>About me</h1> 
 <h2>What I do</h2>
 <ul>
-  <li>PhD Student in Molecular Medicine at the University Medical Center Goettingen</li>
+  <li>PhD Student in Molecular Medicine at the Institute of Cellular and Molecular Immunology at the University Medical Center Goettingen</li>
   <li>Researcher on Testicular Germ Cell Tumors</li>
   <li>Highly interested in the fields of immunology and oncology</li>
 </ul>
